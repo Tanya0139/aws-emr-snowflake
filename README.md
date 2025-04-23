@@ -9,17 +9,28 @@ Real estate data pipeline using Apache Airflow, Amazon EMR and Snowflake. Auto-i
 **Dashboard**  
 ![image](https://github.com/user-attachments/assets/6af5590e-0234-4692-ba3a-5e8f3bb18afc)
 
-**Airflow DAG:**  
-![Airflow DAG](https://github.com/yourusername/redfin-real-estate-pipeline/blob/main/screenshots/airflow-dag.png)
 
-**EMR Cluster:**  
-![EMR](https://github.com/yourusername/redfin-real-estate-pipeline/blob/main/screenshots/emr-cluster.png)
 
-**Snowflake Table:**  
-![Snowflake](https://github.com/yourusername/redfin-real-estate-pipeline/blob/main/screenshots/snowflake-table.png)
+**Airflow DAG**  
+![Airflow DAG](https://github.com/Tanya0139/aws-emr-snowflake/blob/main/screenshots-from-project/airflow.png)
 
-**S3 Bucket:**  
-![S3 Bucket](https://github.com/yourusername/redfin-real-estate-pipeline/blob/main/screenshots/s3-bucket.png)
+**S3 Bucket Event Alert**  
+![Bucket Event Alert](https://github.com/Tanya0139/aws-emr-snowflake/blob/main/screenshots-from-project/bucket-event-alert.png)
+
+**EC2 Instance**  
+![EC2 Instance](https://github.com/Tanya0139/aws-emr-snowflake/blob/main/screenshots-from-project/ec2-instance.png)
+
+**EMR Cluster**  
+![EMR Cluster](https://github.com/Tanya0139/aws-emr-snowflake/blob/main/screenshots-from-project/emr-cluster.png)
+
+**EMR Cluster Steps**  
+![EMR Cluster Steps](https://github.com/Tanya0139/aws-emr-snowflake/blob/main/screenshots-from-project/emr-cluster-steps.png)
+
+**Steps in EMR Cluster**  
+![Steps EMR Cluster](https://github.com/Tanya0139/aws-emr-snowflake/blob/main/screenshots-from-project/steps-emr-cluster.png)
+
+**Snowflake Snowpipe Auto-Ingest**  
+![Snowflake Snowpipe](https://github.com/Tanya0139/aws-emr-snowflake/blob/main/screenshots-from-project/snowflake-snowpipe-anr.png)
 
 ---
 
